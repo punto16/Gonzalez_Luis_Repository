@@ -34,20 +34,20 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distance: 1
-    - _FoamAmount: 1.98
-    - _FoamCutOff: 0.85
-    - _FoamOpacity: 0.96
-    - _Gradient_Noise: 0.4
-    - _Offset_U: 1
-    - _Offset_V: 1
-    - _Opacity1: 1.44
-    - _Opacity2: 0.85
-    - _OpacityDistance: 0.5
+    - _Distance: 9.6
+    - _FoamAmount: 5.88
+    - _FoamCutOff: 1.22
+    - _FoamOpacity: 1.35
+    - _Gradient_Noise: 0.93
+    - _Offset_U: 1.21
+    - _Offset_V: 1.15
+    - _Opacity1: 1
+    - _Opacity2: 1
+    - _OpacityDistance: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Tile_U: 3.92
-    - _Tile_V: 6.12
+    - _Tile_U: 10
+    - _Tile_V: 10
     m_Colors:
     - _Color1: {r: 0, g: 0.12259319, b: 0.745283, a: 0}
     - _Color2: {r: 0, g: 0.3440552, b: 1, a: 0}
