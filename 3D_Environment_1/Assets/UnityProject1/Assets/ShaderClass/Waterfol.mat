@@ -54,9 +54,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _offset_u: 0
-    - _offset_v: 4.07
+    - _offset_v: 1.94
     - _tile_u: 26.19
-    - _tile_v: 0.52
+    - _tile_v: 0.25
     m_Colors:
     - _foamcolor: {r: 1, g: 1, b: 1, a: 0}
     - _watercolor: {r: 0, g: 0.41486025, b: 1, a: 0}
